@@ -1,0 +1,71 @@
+Informações importantes
+1. Os algoritmos devem ser disponibilizados em repositórios GIT de maneira pública.
+2. UƟlize a linguagem/frameworkers que for mais confortável para você.
+3. Em caso de dúvidas entre em contato que responderemos tudo que for necessário.
+4. Caso seja necessária alguma ação especial para executar o seu algoritmo, as instruções
+devem vir junto com o algoritmo.
+5. NÃO uƟlize ferramentas/inteligência arƟficial de geração de código automáƟco. O objeƟvo é
+avaliar o seu conhecimento no processo de elaboração da solução;
+1 – Conversor de números romanos para decimal
+O sistema numérico representado pelos algarismos romanos originou-se na Roma anƟga e
+permaneceu como a maneira usual de escrever números em toda a Europa até o final da Idade
+Média. Os algarismos romanos, conforme usados hoje, empregam sete símbolos, cada um com um
+valor inteiro fixo. Veja na tabela abaixo os pares Símbolo = Valor:
+I = 1 | V = 5 | X -10 | G = 50 | C = 100 |D = 500 | M = 1000
+Demandas Essenciais
+1. O usuário deve ter um campo para inserir o símbolo romano e um botão para acionar a
+conversão;
+2. O usuário deve ver o resultado da conversão para decimal (base 10) em um único campo de
+saída;
+3. Se um símbolo errado for inserido, o usuário deverá ver um erro;
+Bônus
+1. O usuário pode ver a conversão a ser feita automaƟcamente enquanto digita;
+2. O usuário pode fazer a conversão de decimal para romano (vice-versa);
+2 – Gerador de senhas
+Gerar senhas a parƟr de opções com caracterísƟcas especificas que são selecionas pelo usuário.
+Demandas Essenciais
+1. O usuário pode definir a quanƟdade de caracteres que será gerado;
+2. O usuário pode escolher múlƟplas opções entre:
+a. Incluir uma letra maiúscula;
+b. Incluir uma letra minúscula;
+c. Incluir um número;
+d. Incluir um símbolo;
+3. O usuário pode clicar no botão “Copiar para a área de transferência”, que salvará a senha na
+área de transferência;
+Bônus
+1. O usuário pode ver a força da senha;
+2. O usuário pode selecionar a opção para incluir um emoji a senha;
+
+3 – Elevador
+É diİcil pensar em um mundo sem elevadores. Especialmente se você Ɵver que subir e descer 20
+lances de escada todos os dias. Mas, se você pensar sobre isso, os elevadores foram uma das
+implementações originais de eventos e manipuladores de eventos muito antes de os aplicaƟvos da
+Web entrarem em cena.
+O objeƟvo do aplicaƟvo Elevator é simular o funcionamento de um elevador e, mais importante,
+como lidar com os eventos gerados quando os ocupantes do ediİcio o uƟlizam. Este aplicaƟvo simula
+ocupantes chamando um elevador de qualquer andar e pressionando os botões dentro do elevador
+para indicar o andar para o qual desejam ir.
+Restrições
+- Você deve implementar um único manipulador de eventos para os botões para cima e para baixo
+em cada andar. Por exemplo, se houver 4 andares, um único manipulador de eventos deve ser
+implementado em vez de 8 (dois botões por andar).
+- Da mesma forma, um único manipulador de eventos deve ser implementado para todos os botões
+no painel de controle do elevador, em vez de um único manipulador de eventos para cada botão.
+Demandas Essenciais
+1. O usuário pode ver um diagrama de seção transversal de um prédio com quatro andares, um
+poço de elevador, o elevador e um botão para cima no primeiro andar.
+2. O usuário pode ver o painel de controle do elevador com um botão para cada um dos
+andares ao lado do diagrama do elevador.
+3. O usuário pode clicar no painel de controle do elevador para selecionar o andar para o qual
+ele deve ir.
+4. O usuário pode selecionar vários andares e a ordem a ser atendida é na sequência que foi
+clicado.
+5. O usuário pode esperar que o elevador retorne ao primeiro andar quando não houver
+solicitações para processar.
+Bônus
+1. O usuário pode ouvir um som quando o elevador chega a um andar.
+2. O usuário pode ver o elevador se mover para cima e para baixo no poço até o andar para o
+qual foi chamado.
+3. O usuário pode esperar que o elevador pare por 5 segundos esperando que um botão do
+andar no painel de controle seja clicado. Se um botão do andar não for clicado dentro desse
+tempo, o elevador processará a próxima solicitação de chamada.

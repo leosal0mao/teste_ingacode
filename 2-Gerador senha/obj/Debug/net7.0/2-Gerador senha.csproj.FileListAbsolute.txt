@@ -1,0 +1,15 @@
+C:\Users\leo-s\Desktop\teste_ingacode\2-Gerador senha\bin\Debug\net7.0\2-Gerador senha.exe
+C:\Users\leo-s\Desktop\teste_ingacode\2-Gerador senha\bin\Debug\net7.0\2-Gerador senha.deps.json
+C:\Users\leo-s\Desktop\teste_ingacode\2-Gerador senha\bin\Debug\net7.0\2-Gerador senha.runtimeconfig.json
+C:\Users\leo-s\Desktop\teste_ingacode\2-Gerador senha\bin\Debug\net7.0\2-Gerador senha.dll
+C:\Users\leo-s\Desktop\teste_ingacode\2-Gerador senha\bin\Debug\net7.0\2-Gerador senha.pdb
+C:\Users\leo-s\Desktop\teste_ingacode\2-Gerador senha\obj\Debug\net7.0\2-Gerador senha.csproj.AssemblyReference.cache
+C:\Users\leo-s\Desktop\teste_ingacode\2-Gerador senha\obj\Debug\net7.0\2-Gerador senha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leo-s\Desktop\teste_ingacode\2-Gerador senha\obj\Debug\net7.0\2-Gerador senha.AssemblyInfoInputs.cache
+C:\Users\leo-s\Desktop\teste_ingacode\2-Gerador senha\obj\Debug\net7.0\2-Gerador senha.AssemblyInfo.cs
+C:\Users\leo-s\Desktop\teste_ingacode\2-Gerador senha\obj\Debug\net7.0\2-Gerador senha.csproj.CoreCompileInputs.cache
+C:\Users\leo-s\Desktop\teste_ingacode\2-Gerador senha\obj\Debug\net7.0\2-Gerador senha.dll
+C:\Users\leo-s\Desktop\teste_ingacode\2-Gerador senha\obj\Debug\net7.0\refint\2-Gerador senha.dll
+C:\Users\leo-s\Desktop\teste_ingacode\2-Gerador senha\obj\Debug\net7.0\2-Gerador senha.pdb
+C:\Users\leo-s\Desktop\teste_ingacode\2-Gerador senha\obj\Debug\net7.0\2-Gerador senha.genruntimeconfig.cache
+C:\Users\leo-s\Desktop\teste_ingacode\2-Gerador senha\obj\Debug\net7.0\ref\2-Gerador senha.dll

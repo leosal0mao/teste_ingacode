@@ -1,0 +1,15 @@
+C:\Users\leo-s\Desktop\teste_ingacode\1-Conversor\obj\Debug\net7.0\1-Conversor.csproj.AssemblyReference.cache
+C:\Users\leo-s\Desktop\teste_ingacode\1-Conversor\obj\Debug\net7.0\1-Conversor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leo-s\Desktop\teste_ingacode\1-Conversor\obj\Debug\net7.0\1-Conversor.AssemblyInfoInputs.cache
+C:\Users\leo-s\Desktop\teste_ingacode\1-Conversor\obj\Debug\net7.0\1-Conversor.AssemblyInfo.cs
+C:\Users\leo-s\Desktop\teste_ingacode\1-Conversor\obj\Debug\net7.0\1-Conversor.csproj.CoreCompileInputs.cache
+C:\Users\leo-s\Desktop\teste_ingacode\1-Conversor\bin\Debug\net7.0\1-Conversor.exe
+C:\Users\leo-s\Desktop\teste_ingacode\1-Conversor\bin\Debug\net7.0\1-Conversor.deps.json
+C:\Users\leo-s\Desktop\teste_ingacode\1-Conversor\bin\Debug\net7.0\1-Conversor.runtimeconfig.json
+C:\Users\leo-s\Desktop\teste_ingacode\1-Conversor\bin\Debug\net7.0\1-Conversor.dll
+C:\Users\leo-s\Desktop\teste_ingacode\1-Conversor\bin\Debug\net7.0\1-Conversor.pdb
+C:\Users\leo-s\Desktop\teste_ingacode\1-Conversor\obj\Debug\net7.0\1-Conversor.dll
+C:\Users\leo-s\Desktop\teste_ingacode\1-Conversor\obj\Debug\net7.0\refint\1-Conversor.dll
+C:\Users\leo-s\Desktop\teste_ingacode\1-Conversor\obj\Debug\net7.0\1-Conversor.pdb
+C:\Users\leo-s\Desktop\teste_ingacode\1-Conversor\obj\Debug\net7.0\1-Conversor.genruntimeconfig.cache
+C:\Users\leo-s\Desktop\teste_ingacode\1-Conversor\obj\Debug\net7.0\ref\1-Conversor.dll
