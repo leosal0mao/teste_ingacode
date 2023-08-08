@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "X8sQbjqEaET6eP/fPfODZ1/rgVPgTRDCEemNxGkCcgvNZrrhs6MaRUWFjdc0yOfMCA3e/igFUsZUJRgNJWEZBA==",
+  "dgSpecHash": "quN7nvii/sP2o9tq/lxw2kzDX30lkRHPk6IUuxU9MVla90o+D6boy7YHbcXh+UjFt9T96sDEQvqOAgBcwRMy3A==",
   "success": true,
   "projectFilePath": "C:\\Users\\leo-s\\Desktop\\teste_ingacode\\2-Gerador senha\\2-Gerador senha.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\leo-s\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\leo-s\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\leo-s\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\leo-s\\.nuget\\packages\\system.windows.extensions\\7.0.0\\system.windows.extensions.7.0.0.nupkg.sha512",
+    "C:\\Users\\leo-s\\.nuget\\packages\\textcopy\\6.2.1\\textcopy.6.2.1.nupkg.sha512"
+  ],
   "logs": []
 }
